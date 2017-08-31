@@ -1,0 +1,7 @@
+{
+  "name": "hughestech/commerce_base",
+  "type": "drupal-profile",
+  "description": "Commerce 2.x installation profile",
+  "homepage": "https://github.com/hughestech/commerce_base",
+  "license": "GPL-2.0+"
+}
